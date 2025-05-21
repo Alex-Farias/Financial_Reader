@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zWXMdDylpd8=",
+  "success": true,
+  "projectFilePath": "D:\\User\\Alex\\Desenvolvimento\\Projetos\\Pessoal\\Financial_Reader\\Financial_Reader_Backend\\Financial_Reader_Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexf\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\alexf\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
